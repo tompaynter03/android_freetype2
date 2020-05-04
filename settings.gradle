@@ -1,0 +1,2 @@
+rootProject.name='Android FreeType2'
+include ':libfreetype2'
