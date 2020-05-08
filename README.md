@@ -15,7 +15,7 @@ This project builds an FreeType2 library for Android.
 ![](images/NDK_Version.png)
 
 ## Step 2: Gather Results
-Now we want to gether the .arr's, libs, and includes ready for distribution.
+Now we want to gather the .arr's, libs, and includes ready for distribution.
 
 * Run ./package_output.sh
 * This will generate android-freetype2 and android-freetype2.tar.gz
